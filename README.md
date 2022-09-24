@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AGvinay7
-- 👀 I’m interested in ML,AI, Chatbots, React, .Net Web development
-- 🌱 I’m currently learning Microsoft Bot framework.
-- 💞️ I’m looking to collaborate on AI driven applications.
+-  Visit my portfolio https://agvinay7.github.io/agvin
+- 👀 I’m interested Microservice architecture, Azure cloud services, Single page web applications using ReactJs and .NET .
+- 🌱 I’m currently learning Microsoft Azure cognitive services.
+- 💞️ I’m looking to collaborate on AI and ML driven web applications.
 - 📫 How to reach me -> @vinay.1ag@gmail.com
 
 <!---
